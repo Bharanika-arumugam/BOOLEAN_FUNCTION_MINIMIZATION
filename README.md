@@ -1,7 +1,6 @@
 ###  NAME:BHARANIKA.A.S
 ### REG NO:24901181
 # EXPERIMENT 2: IMPLEMENTATION OF BOOLEAN FUNCTION 
-Soft wrap
 # AIM:
 
 To implement the given logic function verify its operation in Quartus using Verilog programming.
